@@ -5,6 +5,6 @@ nao
 - estou estudando na Alura
 - estou me desenvolvendo na linguagem Javascript
 
-  ## voce pode entar em contato comigo📫
- ![](https://tenor.com/pt-BR/view/cuphead-meme-bbb-david-britto-davi-britto-gif-14961498222395171552)
+  
+![](https://tenor.com/pt-BR/view/cuphead-meme-bbb-david-britto-davi-britto-gif-14961498222395171552)
  
