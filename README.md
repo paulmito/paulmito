@@ -5,6 +5,10 @@ nao
 - estou estudando na Alura
 - estou me desenvolvendo na linguagem Javascript
 
+## nao entre em contato comigo📫
+  paulacbergamasco@gmail.com 
+
+
   
 ![17277070513811437143644356875248](https://github.com/user-attachments/assets/221e6f87-06f3-4825-a00d-b0d91c823ff5)
 
