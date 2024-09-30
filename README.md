@@ -6,5 +6,5 @@ nao
 - estou me desenvolvendo na linguagem Javascript
 
   
-![](https://tenor.com/pt-BR/view/cuphead-meme-bbb-david-britto-davi-britto-gif-14961498222395171552)
- 
+![](https://tenor.com/pt-BR/view/eggman-speech-bubble-gif)
+
