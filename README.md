@@ -6,5 +6,5 @@ nao
 - estou me desenvolvendo na linguagem Javascript
 
   
-![](https://tenor.com/pt-BR/view/eggman-speech-bubble-gif)
+![17277070513811437143644356875248](https://github.com/user-attachments/assets/221e6f87-06f3-4825-a00d-b0d91c823ff5)
 
